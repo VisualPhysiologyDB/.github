@@ -1,5 +1,3 @@
-# .github
-Overview for VisPhysDB project
 # VisualPhysiologyDB
 
 Open-source tools and data resources for connecting light-sensitive genes, physiological phenotypes, ecological context, and predictive models.
@@ -7,7 +5,9 @@ Open-source tools and data resources for connecting light-sensitive genes, physi
 ## Core projects
 
 - [VPOD: Visual Physiology Opsin Database](https://github.com/VisualPhysiologyDB/visual-physiology-opsin-db)
+- VPOD publication: https://academic.oup.com/gigascience/article-abstract/doi/10.1093/gigascience/giae073/7845193?__cf_chl_tk=OmetWjMcheVtDES0KTPDEPz7qPy_jXUrODYM9wnSyNg-1780671026-1.0.1.1-PSvrvZyMfw9boQUbinXn0dI2l48_f.hJ8MlPTmaUyxc
 - [OPTICS: Opsin Phenotype Tool for Inference of Color Sensitivity](https://github.com/VisualPhysiologyDB/optics)
+- OPTICS preprint: https://www.biorxiv.org/content/10.1101/2025.08.22.671864v1
 
 ## Related prior workflows
 
