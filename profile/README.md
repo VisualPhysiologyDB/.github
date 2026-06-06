@@ -16,4 +16,4 @@ Open-source tools and data resources for connecting light-sensitive genes, physi
 
 ## Roadmap
 
-See the [VisualPhysiologyDB ecosystem roadmap](https://github.com/VisualPhysiologyDB/.github/blob/main/ROADMAP.md).
+See the [VisualPhysiologyDB ecosystem roadmap](ROADMAP.md).
